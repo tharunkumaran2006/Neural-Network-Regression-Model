@@ -1,5 +1,6 @@
 # Developing a Neural Network Regression Model
-
+## NAME : THARUN V K
+## REGISTER NUMBER : 212223230231
 ## AIM
 
 To develop a neural network regression model for the given dataset.
